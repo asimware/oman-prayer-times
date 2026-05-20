@@ -1,12 +1,12 @@
 <img width="1426" height="928" alt="image" src="https://github.com/user-attachments/assets/d89d7e50-0aee-4fff-aef0-be6abbfdf73c" />
 
 # Download Link
-
 <p align="center">
   <a href="https://github.com/asimware/oman-prayer-times/releases/download/1.0/Prayer.Times.Oman.Setup.1.0.0.exe">
     <img 
-      src="https://img.shields.io/badge/Download-Windows_App-2ea44f?style=for-the-badge&logo=windows&logoColor=white"
-      height="100"
+      src="https://img.shields.io/badge/⬇%20Download-Windows%20App-2ea44f?style=for-the-badge&logo=windows&logoColor=white"
+      height="140"
+      alt="Download Windows App"
     />
   </a>
 </p>
@@ -14,18 +14,18 @@
 <!-- Download Counter -->
 
 <p align="center">
-  <strong style="font-size:40px;">
+  <strong style="font-size:48px;">
     Number of Downloads
   </strong>
+
   <br><br>
 
   <img
-    src="https://img.shields.io/github/downloads/asimware/oman-prayer-times/total?style=for-the-badge"
-    height="80"
+    src="https://img.shields.io/github/downloads/asimware/oman-prayer-times/total?style=for-the-badge&logo=github"
+    height="110"
     alt="Number of Downloads"
   />
 </p>
-
 # Contributing
 
 If you want to contribute to this project, follow these steps to set up and run the source code on Windows.
