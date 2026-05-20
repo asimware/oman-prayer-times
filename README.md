@@ -8,11 +8,20 @@
       src="https://img.shields.io/badge/Download-Windows_App-2ea44f?style=for-the-badge&logo=windows&logoColor=white"
       height="100"
     />
-    <!-- Download Counter -->
-    
+  </a>
+</p>
+
+<!-- Download Counter -->
+
 <p align="center">
+  <strong style="font-size:40px;">
+    Number of Downloads
+  </strong>
+  <br><br>
+
   <img
-    src="https://img.shields.io/github/downloads/asimware/oman-prayer-times/total?style=for-the-badge&label=Number%20of%20Downloads"
+    src="https://img.shields.io/github/downloads/asimware/oman-prayer-times/total?style=for-the-badge"
+    height="80"
     alt="Number of Downloads"
   />
 </p>
