@@ -10,7 +10,9 @@
     />
   </a>
 </p>
-![Downloads](https://img.shields.io/github/downloads/asimware/oman-prayer-times/total?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/asimware/oman-prayer-times/total?style=for-the-badge">
+</p>
 
 # Contributing
 
