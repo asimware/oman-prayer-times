@@ -1,8 +1,13 @@
 <img width="1426" height="928" alt="image" src="https://github.com/user-attachments/assets/d89d7e50-0aee-4fff-aef0-be6abbfdf73c" />
 
+# Download Oman Prayer Times
+
 <p align="center">
   <a href="https://github.com/asimware/oman-prayer-times/releases/download/1.0/Prayer.Times.Oman.Setup.1.0.0.exe">
-    <img src="https://img.shields.io/badge/⬇-Download%20Now-success?style=for-the-badge" height="80">
+    <img 
+      src="https://img.shields.io/badge/Download-Windows_App-2ea44f?style=for-the-badge&logo=windows&logoColor=white"
+      height="100"
+    />
   </a>
 </p>
 
