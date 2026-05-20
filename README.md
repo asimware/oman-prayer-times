@@ -8,12 +8,12 @@
       src="https://img.shields.io/badge/Download-Windows_App-2ea44f?style=for-the-badge&logo=windows&logoColor=white"
       height="100"
     />
-  </a>
-</p>
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/asimware/oman-prayer-times/total?style=for-the-badge">
+  <img
+    src="https://img.shields.io/github/downloads/asimware/oman-prayer-times/total?style=for-the-badge&label=Number%20of%20Downloads"
+    alt="Number of Downloads"
+  />
 </p>
-
 # Contributing
 
 If you want to contribute to this project, follow these steps to set up and run the source code on Windows.
