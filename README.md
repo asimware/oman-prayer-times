@@ -1,3 +1,5 @@
+<img width="1426" height="928" alt="image" src="https://github.com/user-attachments/assets/d89d7e50-0aee-4fff-aef0-be6abbfdf73c" />
+
 # Contributing
 
 If you want to contribute to this project, follow these steps to set up and run the source code on Windows.
